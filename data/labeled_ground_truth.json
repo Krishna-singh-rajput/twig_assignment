@@ -1,0 +1,610 @@
+[
+  {
+    "id": "hn_50342280",
+    "source": "hackernews",
+    "source_url": "https://news.ycombinator.com/item?id=50342280",
+    "company_raw": "Hestus",
+    "title_raw": "Machine Learning Engineer (Python, ML)",
+    "location_raw": "Peninsula (Onsite)",
+    "body_raw": "Hestus | Machine Learning Engineer (Python, ML) | Peninsula (Onsite) | Full-time | $150k–$240k + equity\nHestus is building automated underwriting and analytics software for property insurance. We are looking for an ML Engineer with deep Python, PyTorch, and SQL skills to train models on real estate risk data. Must work onsite in San Mateo, CA. Full-time position. No visa sponsorship available at this time.",
+    "ground_truth": {
+      "company": "Hestus",
+      "title": "Machine Learning Engineer",
+      "seniority": "mid",
+      "city": "San Mateo",
+      "country": "USA",
+      "remote_policy": "onsite",
+      "salary_min": 150000.0,
+      "salary_max": 240000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["Python", "PyTorch", "SQL"],
+      "visa_sponsorship": false,
+      "evidence": {
+        "company": "Hestus",
+        "title": "Machine Learning Engineer",
+        "salary_min": "$150k–$240k",
+        "salary_max": "$150k–$240k",
+        "remote_policy": "Onsite",
+        "visa_sponsorship": "No visa sponsorship available"
+      }
+    }
+  },
+  {
+    "id": "hn_50441512",
+    "source": "hackernews",
+    "source_url": "https://news.ycombinator.com/item?id=50441512",
+    "company_raw": "Epsilon",
+    "title_raw": "Senior Data Engineer",
+    "location_raw": "Chicago, IL",
+    "body_raw": "Epsilon | Senior Data Engineer | Hybrid (Chicago, IL) | Full time | $150-$160K USD\nJoin our Identity and Data Engineering team. Looking for a Senior Data Engineer experienced in building scalable ETL pipelines with Apache Spark, Databricks, Snowflake, and Python. We offer competitive benefits and hybrid schedule (2 days in office). Full-time role.",
+    "ground_truth": {
+      "company": "Epsilon",
+      "title": "Senior Data Engineer",
+      "seniority": "senior",
+      "city": "Chicago",
+      "country": "USA",
+      "remote_policy": "hybrid",
+      "salary_min": 150000.0,
+      "salary_max": 160000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["Spark", "Databricks", "Snowflake", "Python"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Epsilon",
+        "title": "Senior Data Engineer",
+        "seniority": "Senior",
+        "salary_min": "$150-$160K USD",
+        "salary_max": "$150-$160K USD",
+        "remote_policy": "Hybrid"
+      }
+    }
+  },
+  {
+    "id": "hn_50356058",
+    "source": "hackernews",
+    "source_url": "https://news.ycombinator.com/item?id=50356058",
+    "company_raw": "Estuary",
+    "title_raw": "Data Platform Engineer",
+    "location_raw": "US-Based / Remote",
+    "body_raw": "Estuary | Data Platform Engineer | US-Based / Remote | Full-time – $160,000 - $210,000 + equity\nEstuary builds Flow, a real-time CDC and streaming data integration engine. We are seeking a Data Platform Engineer with hands-on expertise in distributed systems, Kafka, Go, Rust, and SQL. Remote within the United States.",
+    "ground_truth": {
+      "company": "Estuary",
+      "title": "Data Platform Engineer",
+      "seniority": "mid",
+      "city": null,
+      "country": "USA",
+      "remote_policy": "remote",
+      "salary_min": 160000.0,
+      "salary_max": 210000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["Kafka", "Go", "Rust", "SQL"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Estuary",
+        "title": "Data Platform Engineer",
+        "salary_min": "$160,000 - $210,000",
+        "salary_max": "$160,000 - $210,000",
+        "remote_policy": "Remote"
+      }
+    }
+  },
+  {
+    "id": "hn_50344480",
+    "source": "hackernews",
+    "source_url": "https://news.ycombinator.com/item?id=50344480",
+    "company_raw": "Quantum Rise",
+    "title_raw": "Machine Learning Platform Engineer",
+    "location_raw": "Chicago IL or Remote (US, Brazil or EU)",
+    "body_raw": "Quantum Rise | Chicago IL or Remote (US, Brazil or EU) | Full-time | No visa sponsorship |\nhttps://www.quantumrise.com/\nQuantum Rise is an AI-forward consulting startup serving the mid-market. Hiring a Machine Learning Platform Engineer to deploy LLM pipelines using Python, FastAPI, Docker, and AWS. Salary range is $140,000 to $190,000.",
+    "ground_truth": {
+      "company": "Quantum Rise",
+      "title": "Machine Learning Platform Engineer",
+      "seniority": "mid",
+      "city": "Chicago",
+      "country": "USA",
+      "remote_policy": "remote",
+      "salary_min": 140000.0,
+      "salary_max": 190000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["Python", "FastAPI", "Docker", "AWS"],
+      "visa_sponsorship": false,
+      "evidence": {
+        "company": "Quantum Rise",
+        "title": "Machine Learning Platform Engineer",
+        "salary_min": "$140,000 to $190,000",
+        "salary_max": "$140,000 to $190,000",
+        "remote_policy": "Remote",
+        "visa_sponsorship": "No visa sponsorship"
+      }
+    }
+  },
+  {
+    "id": "hn_50477398",
+    "source": "hackernews",
+    "source_url": "https://news.ycombinator.com/item?id=50477398",
+    "company_raw": "Genentech",
+    "title_raw": "Data Science & Analytics Intern",
+    "location_raw": "South San Francisco, CA USA",
+    "body_raw": "Genentech | 2027 Interns | PD Data Sciences & Analytics | ONSITE (South San Francisco, CA USA)\nSummer internship program for students graduating in 2027. Work with clinical trial data warehouses, Python, R, and SQL. Hourly pay is $45 - $55 / hour. Onsite in South San Francisco.",
+    "ground_truth": {
+      "company": "Genentech",
+      "title": "Data Sciences & Analytics Intern",
+      "seniority": "junior",
+      "city": "San Francisco",
+      "country": "USA",
+      "remote_policy": "onsite",
+      "salary_min": 93600.0,
+      "salary_max": 114400.0,
+      "currency": "USD",
+      "employment_type": "intern",
+      "skills": ["Python", "SQL"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Genentech",
+        "title": "Data Sciences & Analytics",
+        "seniority": "Intern",
+        "salary_min": "$45 - $55 / hour",
+        "salary_max": "$45 - $55 / hour",
+        "remote_policy": "ONSITE"
+      }
+    }
+  },
+  {
+    "id": "hn_50348423",
+    "source": "hackernews",
+    "source_url": "https://news.ycombinator.com/item?id=50348423",
+    "company_raw": "Baton",
+    "title_raw": "Staff Analytics Engineer",
+    "location_raw": "San Francisco, CA (Hybrid)",
+    "body_raw": "Baton | Staff Analytics Engineer | San Francisco, CA (Hybrid) | Full-Time\nBaton is building logistics software for interstate trucking networks. We need a Staff Analytics Engineer to architect our dbt models, Snowflake data warehouse, and reverse ETL pipelines using Airflow and Python. Compensation: $200k - $240k base + 0.2% equity.",
+    "ground_truth": {
+      "company": "Baton",
+      "title": "Staff Analytics Engineer",
+      "seniority": "staff_plus",
+      "city": "San Francisco",
+      "country": "USA",
+      "remote_policy": "hybrid",
+      "salary_min": 200000.0,
+      "salary_max": 240000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["dbt", "Snowflake", "Airflow", "Python"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Baton",
+        "title": "Staff Analytics Engineer",
+        "seniority": "Staff",
+        "salary_min": "$200k - $240k",
+        "salary_max": "$200k - $240k",
+        "remote_policy": "Hybrid"
+      }
+    }
+  },
+  {
+    "id": "hn_50340892",
+    "source": "hackernews",
+    "source_url": "https://news.ycombinator.com/item?id=50340892",
+    "company_raw": "Ledgebrook",
+    "title_raw": "Lead Data Platform Engineer",
+    "location_raw": "REMOTE (US)",
+    "body_raw": "Ledgebrook | Lead Data Platform Engineer | REMOTE (US) | Full-time | $175,000 - $215,000\nLedgebrook is an insurtech MGA. We are seeking a Lead Data Platform Engineer to design cloud-native streaming data architecture. Tech stack: AWS, Terraform, Kafka, Snowflake, Python, dbt. We sponsor H1-B transfers for US candidates.",
+    "ground_truth": {
+      "company": "Ledgebrook",
+      "title": "Lead Data Platform Engineer",
+      "seniority": "senior",
+      "city": null,
+      "country": "USA",
+      "remote_policy": "remote",
+      "salary_min": 175000.0,
+      "salary_max": 215000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["AWS", "Terraform", "Kafka", "Snowflake", "Python", "dbt"],
+      "visa_sponsorship": true,
+      "evidence": {
+        "company": "Ledgebrook",
+        "title": "Lead Data Platform Engineer",
+        "seniority": "Lead",
+        "salary_min": "$175,000 - $215,000",
+        "salary_max": "$175,000 - $215,000",
+        "remote_policy": "REMOTE",
+        "visa_sponsorship": "We sponsor H1-B"
+      }
+    }
+  },
+  {
+    "id": "hn_50344047",
+    "source": "hackernews",
+    "source_url": "https://news.ycombinator.com/item?id=50344047",
+    "company_raw": "Credit Genie",
+    "title_raw": "Data Engineer",
+    "location_raw": "Philadelphia / NYC",
+    "body_raw": "Credit Genie | Philadelphia / NYC | Full-time | In Office | $130k - $160k\nCredit Genie is a fast-growing fintech platform helping consumers prevent overdrafts. Looking for a Data Engineer to maintain Postgres and BigQuery pipelines using Airflow and Python. Must work in our Philadelphia or NYC office.",
+    "ground_truth": {
+      "company": "Credit Genie",
+      "title": "Data Engineer",
+      "seniority": "mid",
+      "city": "New York",
+      "country": "USA",
+      "remote_policy": "onsite",
+      "salary_min": 130000.0,
+      "salary_max": 160000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["PostgreSQL", "BigQuery", "Airflow", "Python"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Credit Genie",
+        "title": "Data Engineer",
+        "salary_min": "$130k - $160k",
+        "salary_max": "$130k - $160k",
+        "remote_policy": "In Office"
+      }
+    }
+  },
+  {
+    "id": "hn_50342433",
+    "source": "hackernews",
+    "source_url": "https://news.ycombinator.com/item?id=50342433",
+    "company_raw": "Sumble",
+    "title_raw": "AI/ML Engineer",
+    "location_raw": "Remote (US)",
+    "body_raw": "Sumble | Multiple Roles | Remote (US)| Full-time\nSumble is the newco from the founders of Kaggle. We are hiring full-stack engineers and an AI/ML Engineer to train specialized generative models on developer telemetry. Requirements: PyTorch, Python, Hugging Face, Ray. Base salary: $180,000 - $230,000.",
+    "ground_truth": {
+      "company": "Sumble",
+      "title": "AI/ML Engineer",
+      "seniority": "mid",
+      "city": null,
+      "country": "USA",
+      "remote_policy": "remote",
+      "salary_min": 180000.0,
+      "salary_max": 230000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["PyTorch", "Python"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Sumble",
+        "title": "AI/ML Engineer",
+        "salary_min": "$180,000 - $230,000",
+        "salary_max": "$180,000 - $230,000",
+        "remote_policy": "Remote"
+      }
+    }
+  },
+  {
+    "id": "hn_50339641",
+    "source": "hackernews",
+    "source_url": "https://news.ycombinator.com/item?id=50339641",
+    "company_raw": "CNH",
+    "title_raw": "AI Engineer Intern",
+    "location_raw": "Tempe, AZ, USA",
+    "body_raw": "CNH | AI Engineer Intern | Tempe, AZ, USA | ON-SITE | Summer internship (40 hours/week, May–August)\nWork on autonomy and precision agriculture, applying AI, machine learning, and computer vision to agricultural machinery. Python, PyTorch, OpenCV, Linux experience desired. Hourly compensation: $40/hr.",
+    "ground_truth": {
+      "company": "CNH",
+      "title": "AI Engineer Intern",
+      "seniority": "junior",
+      "city": null,
+      "country": "USA",
+      "remote_policy": "onsite",
+      "salary_min": 83200.0,
+      "salary_max": 83200.0,
+      "currency": "USD",
+      "employment_type": "intern",
+      "skills": ["Python", "PyTorch", "Linux"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "CNH",
+        "title": "AI Engineer Intern",
+        "seniority": "Intern",
+        "salary_min": "$40/hr",
+        "salary_max": "$40/hr",
+        "remote_policy": "ON-SITE"
+      }
+    }
+  },
+  {
+    "id": "hn_50339454",
+    "source": "hackernews",
+    "source_url": "https://news.ycombinator.com/item?id=50339454",
+    "company_raw": "Peregrine",
+    "title_raw": "Data Infrastructure Engineer",
+    "location_raw": "San Francisco, CA",
+    "body_raw": "Peregrine | Data Infrastructure Engineer | San Francisco, CA | Full-Time | Onsite\nBacked by Sequoia Capital, Peregrine is the operational AI platform powering government and emergency services. We are looking for an experienced Data Infrastructure Engineer to manage our distributed Kafka and Trino clusters. Python, Go, Kubernetes, Terraform required. $170k - $210k base salary.",
+    "ground_truth": {
+      "company": "Peregrine",
+      "title": "Data Infrastructure Engineer",
+      "seniority": "mid",
+      "city": "San Francisco",
+      "country": "USA",
+      "remote_policy": "onsite",
+      "salary_min": 170000.0,
+      "salary_max": 210000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["Kafka", "Trino", "Python", "Go", "Kubernetes", "Terraform"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Peregrine",
+        "title": "Data Infrastructure Engineer",
+        "salary_min": "$170k - $210k",
+        "salary_max": "$170k - $210k",
+        "remote_policy": "Onsite"
+      }
+    }
+  },
+  {
+    "id": "gh_stripe_data_eng_1",
+    "source": "greenhouse",
+    "source_url": "https://boards.greenhouse.io/stripe/jobs/5912384",
+    "company_raw": "Stripe",
+    "title_raw": "Senior Data Engineer, Financial Data Platform",
+    "location_raw": "Seattle, WA or San Francisco, CA",
+    "body_raw": "Stripe is seeking a Senior Data Engineer to join the Financial Data Platform team. You will build high-throughput, double-entry financial ledger pipelines moving billions of dollars daily. Requires deep experience in Spark, Scala, Python, Presto, and Airflow. Full-time position. The annual base salary range for this role is $185,000 - $245,000 USD.",
+    "ground_truth": {
+      "company": "Stripe",
+      "title": "Senior Data Engineer, Financial Data Platform",
+      "seniority": "senior",
+      "city": "Seattle",
+      "country": "USA",
+      "remote_policy": "hybrid",
+      "salary_min": 185000.0,
+      "salary_max": 245000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["Spark", "Scala", "Python", "Presto", "Airflow"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Stripe",
+        "title": "Senior Data Engineer",
+        "seniority": "Senior",
+        "salary_min": "$185,000 - $245,000 USD",
+        "salary_max": "$185,000 - $245,000 USD"
+      }
+    }
+  },
+  {
+    "id": "gh_databricks_ml_1",
+    "source": "greenhouse",
+    "source_url": "https://boards.greenhouse.io/databricks/jobs/6102941",
+    "company_raw": "Databricks Inc",
+    "title_raw": "Staff Machine Learning Engineer - Generative AI",
+    "location_raw": "Mountain View, CA",
+    "body_raw": "Databricks is looking for a Staff Machine Learning Engineer to lead the Mosaic AI foundation model training team. You will optimize large-scale distributed training clusters using PyTorch, CUDA, Python, and Ray. The expected base pay range for this position is $215,000 - $290,000. Full-time role with equity and full health benefits.",
+    "ground_truth": {
+      "company": "Databricks",
+      "title": "Staff Machine Learning Engineer - Generative AI",
+      "seniority": "staff_plus",
+      "city": "Mountain View",
+      "country": "USA",
+      "remote_policy": "onsite",
+      "salary_min": 215000.0,
+      "salary_max": 290000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["PyTorch", "Python", "Ray"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Databricks",
+        "title": "Staff Machine Learning Engineer",
+        "seniority": "Staff",
+        "salary_min": "$215,000 - $290,000",
+        "salary_max": "$215,000 - $290,000"
+      }
+    }
+  },
+  {
+    "id": "gh_airbnb_analytics_1",
+    "source": "greenhouse",
+    "source_url": "https://boards.greenhouse.io/airbnb/jobs/5239102",
+    "company_raw": "Airbnb",
+    "title_raw": "Senior Analytics Engineer, Host Growth",
+    "location_raw": "Remote - US",
+    "body_raw": "Airbnb operates a global travel community. We are looking for a Senior Analytics Engineer to partner with Product Managers on Host Marketplace dynamics. You will create dimensional models in Snowflake, transform pipelines in dbt, and write complex SQL and Python. Live and work anywhere in the US with our remote policy. Base compensation: $170,000 - $210,000.",
+    "ground_truth": {
+      "company": "Airbnb",
+      "title": "Senior Analytics Engineer, Host Growth",
+      "seniority": "senior",
+      "city": null,
+      "country": "USA",
+      "remote_policy": "remote",
+      "salary_min": 170000.0,
+      "salary_max": 210000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["Snowflake", "dbt", "SQL", "Python"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Airbnb",
+        "title": "Senior Analytics Engineer",
+        "seniority": "Senior",
+        "salary_min": "$170,000 - $210,000",
+        "salary_max": "$170,000 - $210,000",
+        "remote_policy": "Remote"
+      }
+    }
+  },
+  {
+    "id": "gh_figma_data_1",
+    "source": "greenhouse",
+    "source_url": "https://boards.greenhouse.io/figma/jobs/4829104",
+    "company_raw": "Figma",
+    "title_raw": "Data Platform Engineer",
+    "location_raw": "San Francisco, CA or New York, NY",
+    "body_raw": "Figma is seeking a Data Platform Engineer to scale our collaborative design analytics platform. Stack includes Kafka, Spark, Snowflake, Terraform, and Python. We offer hybrid working arrangements with offices in SF and NYC. Full-time position. Salary range for SF/NYC: $165,000 - $220,000.",
+    "ground_truth": {
+      "company": "Figma",
+      "title": "Data Platform Engineer",
+      "seniority": "mid",
+      "city": "San Francisco",
+      "country": "USA",
+      "remote_policy": "hybrid",
+      "salary_min": 165000.0,
+      "salary_max": 220000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["Kafka", "Spark", "Snowflake", "Terraform", "Python"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Figma",
+        "title": "Data Platform Engineer",
+        "salary_min": "$165,000 - $220,000",
+        "salary_max": "$165,000 - $220,000",
+        "remote_policy": "hybrid"
+      }
+    }
+  },
+  {
+    "id": "gh_stripe_mlops_1",
+    "source": "greenhouse",
+    "source_url": "https://boards.greenhouse.io/stripe/jobs/5993821",
+    "company_raw": "Stripe, Inc.",
+    "title_raw": "MLOps Platform Engineer",
+    "location_raw": "US-Remote",
+    "body_raw": "Join Stripe's Machine Learning Platform organization. Help us build deployment and monitoring infrastructure for Radar fraud detection models. Stack: Python, Go, Kubernetes, MLflow, Docker, AWS. Salary: $175k - $230k USD per year. Remote eligible across the US.",
+    "ground_truth": {
+      "company": "Stripe",
+      "title": "MLOps Platform Engineer",
+      "seniority": "mid",
+      "city": null,
+      "country": "USA",
+      "remote_policy": "remote",
+      "salary_min": 175000.0,
+      "salary_max": 230000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["Python", "Go", "Kubernetes", "MLflow", "Docker", "AWS"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Stripe",
+        "title": "MLOps Platform Engineer",
+        "salary_min": "$175k - $230k",
+        "salary_max": "$175k - $230k",
+        "remote_policy": "Remote"
+      }
+    }
+  },
+  {
+    "id": "lever_palantir_de_1",
+    "source": "lever",
+    "source_url": "https://jobs.lever.co/palantir/8a9b2c3d-4e5f",
+    "company_raw": "Palantir Technologies",
+    "title_raw": "Data Engineer, Foundry Platforms",
+    "location_raw": "New York, NY",
+    "body_raw": "Palantir Foundry integrates data from disparate enterprise systems. We are looking for a Data Engineer in New York to build automated telemetry pipelines using Spark, Python, and SQL. Standard working hours, full-time. Base compensation is between $140,000 and $180,000 per year.",
+    "ground_truth": {
+      "company": "Palantir",
+      "title": "Data Engineer, Foundry Platforms",
+      "seniority": "mid",
+      "city": "New York",
+      "country": "USA",
+      "remote_policy": "onsite",
+      "salary_min": 140000.0,
+      "salary_max": 180000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["Spark", "Python", "SQL"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Palantir",
+        "title": "Data Engineer",
+        "salary_min": "$140,000 and $180,000",
+        "salary_max": "$140,000 and $180,000"
+      }
+    }
+  },
+  {
+    "id": "lever_palantir_senior_ml_1",
+    "source": "lever",
+    "source_url": "https://jobs.lever.co/palantir/7b8a9c0d-1e2f",
+    "company_raw": "Palantir",
+    "title_raw": "Senior Machine Learning Engineer, Defense",
+    "location_raw": "Washington, DC",
+    "body_raw": "Palantir is seeking a Senior Machine Learning Engineer to support defense mission operations. You will develop edge model deployment systems with Python, C++, PyTorch, and Docker. Must possess or be eligible to obtain a US Government security clearance. Annual salary: $170,000 - $225,000.",
+    "ground_truth": {
+      "company": "Palantir",
+      "title": "Senior Machine Learning Engineer, Defense",
+      "seniority": "senior",
+      "city": null,
+      "country": "USA",
+      "remote_policy": "onsite",
+      "salary_min": 170000.0,
+      "salary_max": 225000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["Python", "PyTorch", "Docker"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Palantir",
+        "title": "Senior Machine Learning Engineer",
+        "seniority": "Senior",
+        "salary_min": "$170,000 - $225,000",
+        "salary_max": "$170,000 - $225,000"
+      }
+    }
+  },
+  {
+    "id": "lever_spotify_data_1",
+    "source": "lever",
+    "source_url": "https://jobs.lever.co/spotify/6c7d8e9f-0a1b",
+    "company_raw": "Spotify",
+    "title_raw": "Senior Data Engineer - Content Platform",
+    "location_raw": "Boston, MA (Hybrid)",
+    "body_raw": "Spotify transforms how millions enjoy music and podcasts. We are seeking a Senior Data Engineer for our Content Platform team in Boston. Experience with GCP, BigQuery, Scio, Scala, and Python required. Hybrid schedule. Annual salary range: $160,000 - $205,000.",
+    "ground_truth": {
+      "company": "Spotify",
+      "title": "Senior Data Engineer - Content Platform",
+      "seniority": "senior",
+      "city": "Boston",
+      "country": "USA",
+      "remote_policy": "hybrid",
+      "salary_min": 160000.0,
+      "salary_max": 205000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["GCP", "BigQuery", "Scala", "Python"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Spotify",
+        "title": "Senior Data Engineer",
+        "seniority": "Senior",
+        "salary_min": "$160,000 - $205,000",
+        "salary_max": "$160,000 - $205,000",
+        "remote_policy": "Hybrid"
+      }
+    }
+  },
+  {
+    "id": "lever_spotify_mlops_1",
+    "source": "lever",
+    "source_url": "https://jobs.lever.co/spotify/5d6e7f8a-9b0c",
+    "company_raw": "Spotify",
+    "title_raw": "Machine Learning Engineer - Personalization",
+    "location_raw": "New York, NY",
+    "body_raw": "The Personalization team at Spotify powers Discover Weekly and Daily Mix. We are looking for an ML Engineer to develop recommendation pipelines using TensorFlow, Python, Kubernetes, and BigQuery. Onsite in NYC office. Salary: $155,000 to $195,000.",
+    "ground_truth": {
+      "company": "Spotify",
+      "title": "Machine Learning Engineer - Personalization",
+      "seniority": "mid",
+      "city": "New York",
+      "country": "USA",
+      "remote_policy": "onsite",
+      "salary_min": 155000.0,
+      "salary_max": 195000.0,
+      "currency": "USD",
+      "employment_type": "full_time",
+      "skills": ["TensorFlow", "Python", "Kubernetes", "BigQuery"],
+      "visa_sponsorship": null,
+      "evidence": {
+        "company": "Spotify",
+        "title": "Machine Learning Engineer",
+        "salary_min": "$155,000 to $195,000",
+        "salary_max": "$155,000 to $195,000"
+      }
+    }
+  }
+]
